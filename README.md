@@ -1,2 +1,3 @@
 # RND
-Doing .Net Core Web Api and Angular R&amp;D
+
+Learning .Net Core Web API and Angular R&amp;D
